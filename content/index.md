@@ -6,4 +6,6 @@ Use this website to keep track of new releases from **Wenga**, links to their do
 
 If you're here for flashcards, click here.
 
-Join the Telegram channel for news [here](https://t.me/wengakrd):
+Join the Telegram channel for news [here](https://t.me/wengakrd).
+
+Learn more about our mission [[Mission Statement |here]].
